@@ -1,0 +1,11 @@
+- title: "HAMLET: A Hierarchical Multimodal Attention-based Human Activity Recognition Algorithm"
+  image: 
+  description:
+  authors: Md Mofijul Islam, Tariq Iqbal
+  link:
+    url: https://arxiv.org/abs/2008.01148
+    display:  arXiv:2008.01148
+    pdf_url: https://arxiv.org/pdf/2008.01148.pdf
+    bibtex_filename: hamlet.bib
+  highlight: 1
+  news2:
