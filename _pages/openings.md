@@ -16,7 +16,7 @@ permalink: /vacancies
 ### Applications for PhD and Postdoc positions
 
 
-### Master projects for Leiden University students
+### Master projects for University of Virginia students
 
 ### Bsc / Master students from elsewhere
 
