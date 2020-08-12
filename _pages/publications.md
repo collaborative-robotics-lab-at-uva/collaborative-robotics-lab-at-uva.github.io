@@ -9,11 +9,34 @@ permalink: /publications/
 
 # Publications
 
+{% assign tm_pub_year = 0 %}
+
+<div class="container">
 {% for publi in site.data.publist %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br />
-  <a href="{{ site.url }}{{ site.baseurl }}/bibtex/{{ publi.link.bibtex_filename }}" class="btn btn-primary" role="button" target="_blank">BibTex</a>
-  <a href="{{ publi.link.pdf_url }}" class="btn btn-primary" role="button" target="_blank">PDF</a>
+  {%- if publi.pub_year != tm_pub_year -%}
+  <h4>{{ publi.pub_year }} </h4>
+    {%- assign tm_pub_year = publi.pub_year -%}
+  {%- endif -%}
 
-{% endfor %}
+  <div class="col-sm-12">
+  <b>{{ publi.title }} hello</b> <br />
+  {{ publi.authors }} <br/>
+  <em>{{publi.pub_venue}}, {{publi.pub_date}}</em> <br/>
+  <div class="container">
+
+  <div class="row">
+  {%- if publi.link.bibtex_filename -%}
+  <a href="{{ site.url }}{{ site.baseurl }}/files/bibtex/{{ publi.link.bibtex_filename }}" class="btn btn-primary" role="button" target="_blank">BibTex</a>
+  {% endif %}
+  
+  {%- if publi.link.pdf_filename -%}
+  <a href="{{ site.url }}{{ site.baseurl }}/files/papers/{{ publi.link.pdf_filename }}" class="btn btn-primary" role="button" target="_blank">PDF</a>
+  {% endif -%}
+  <a href="{{ publi.link.url }}" class="btn btn-primary" role="button" target="_blank">{{publi.link.display}}</a>
+  
+  </div></div>
+  </div>
+{%- endfor -%}
+
+</div>

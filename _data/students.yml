@@ -10,7 +10,8 @@
 
 - name: <a href="https://samin.netlify.app/" target="_blank"> Mohammad Samin Yasar</a>
   photo: samin.jpeg
-  info: Ph.D. Student, started August 2017
+  info: Ph.D. Student
+  started: August 2017
   email: msy9an@virginia.edu
   number_educ: 0
   education1: 
@@ -19,7 +20,8 @@
 
 - name: <a href="https://mmiakashs.github.io" target="_blank"> Md Mofijul Islam (Akash)</a>
   photo: mofijul.jpg
-  info: PhD Student, started August 2019
+  info: PhD Student
+  started: August 2019
   email: mi8uu@virginia.edu
   number_educ: 0
   education1: 
@@ -29,7 +31,8 @@
 
 - name: Haley Green
   photo: haley.jpeg
-  info: Ph.D. Student, started August 2020
+  info: Ph.D. Student
+  started: August 2020
   email: hng9vf@virginia.edu
   number_educ: 0
   education1: 

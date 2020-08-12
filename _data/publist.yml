@@ -4,8 +4,58 @@
   authors: Md Mofijul Islam, Tariq Iqbal
   link:
     url: https://arxiv.org/abs/2008.01148
-    display:  arXiv:2008.01148
-    pdf_url: https://arxiv.org/pdf/2008.01148.pdf
+    display:  ArXiv
+    pdf_filename: hamlet.pdf
     bibtex_filename: hamlet.bib
+  pub_venue: Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  pub_date: October, 2020
+  pub_year: 2020
   highlight: 1
+  news2:
+
+- title: "HAMLET: A Hierarchical Multimodal Attention-based Human Activity Recognition Algorithm"
+  image: 
+  description:
+  authors: Md Mofijul Islam, Tariq Iqbal
+  link:
+    url: https://arxiv.org/abs/2008.01148
+    display:  ArXiv
+    pdf_filename: 
+    bibtex_filename: hamlet.bib
+  pub_venue: Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  pub_date: October, 2020
+  pub_year: 2019
+  highlight: 2
+  news2:
+
+
+- title: "HAMLET: A Hierarchical Multimodal Attention-based Human Activity Recognition Algorithm"
+  image: 
+  description:
+  authors: Md Mofijul Islam, Tariq Iqbal
+  link:
+    url: https://arxiv.org/abs/2008.01148
+    display:  ArXiv
+    pdf_filename: 
+    bibtex_filename: hamlet.bib
+  pub_venue: Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  pub_date: October, 2020
+  pub_year: 2019
+  highlight: 2
+  news2:
+
+
+- title: "HAMLET: A Hierarchical Multimodal Attention-based Human Activity Recognition Algorithm"
+  image: 
+  description:
+  authors: Md Mofijul Islam, Tariq Iqbal
+  link:
+    url: https://arxiv.org/abs/2008.01148
+    display:  ArXiv
+    pdf_filename: 
+    bibtex_filename: hamlet.bib
+  pub_venue: Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  pub_date: October, 2020
+  pub_year: 2018
+  highlight: 2
   news2:

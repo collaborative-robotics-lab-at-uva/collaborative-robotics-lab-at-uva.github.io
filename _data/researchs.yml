@@ -1,0 +1,12 @@
+
+- title: "HAMLET: A Hierarchical Multimodal Attention-based Human Activity Recognition Algorithm"
+  title_link: 
+  image: hat.png
+  description: To fluently collaborate with people, robots need the ability to recognize human activities accurately. Although modern robots are equipped with various sensors, robust human activity recognition (HAR) still remains a challenging task for robots due to difficulties related to multimodal data fusion. To address these challenges, in this work, we introduce a deep neural network-based multimodal HAR algorithm, HAMLET. HAMLET incorporates a hierarchical architecture, where the lower layer encodes spatio-temporal features from unimodal data by adopting a multi-head self-attention mechanism. We develop a novel multimodal attention mechanism for disentangling and fusing the salient unimodal features to compute the multimodal features in the upper layer.
+  authors: Md Mofijul Islam, Tariq Iqbal
+  link:
+    url: https://arxiv.org/abs/2008.01148
+    display:  ArXiv
+  highlight: 1
+  news1:
+  news2:
