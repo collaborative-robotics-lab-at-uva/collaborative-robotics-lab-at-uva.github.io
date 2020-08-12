@@ -13,7 +13,8 @@ permalink: /publications/
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br />
-  <a href="{{ site.url }}{{ site.baseurl }}/bibtex/{{ publi.link.bibtex_filename }}" class="btn btn-primary" role="button" target="_blank">BibTex</a>
-  <a href="{{ publi.link.pdf_url }}" class="btn btn-primary" role="button" target="_blank">PDF</a>
+
+  <a href="{{ site.url }}{{ site.baseurl }}/bibtex/{{ publi.link.bibtex_filename }}" class="btn btn-warning btn-xs" role="button" target="_blank">BibTex</a>
+  <a href="{{ publi.link.pdf_url }}" class="btn btn-warning btn-xs" role="button" target="_blank">PDF</a>
 
 {% endfor %}
