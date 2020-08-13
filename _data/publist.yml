@@ -72,4 +72,215 @@
   pub_year: 2017
   highlight: 
   news2:
+  	
+- title: "Can Robots Synchronize with Humans in Tempo Changing Environments?"
+  image: 
+  description:
+  authors: Tariq Iqbal, Laurel D. Riek
+  link:
+    url: 
+    display:  
+    pdf_filename: 
+    bibtex_filename: 
+  pub_venue: "Proceedings of the Annual Joint Action Meeting (JAM)"
+  pub_date: 2017
+  pub_year: 2017
+  highlight: 
+  news2:
+	  
+	  
+- title: "Movement Coordination in Human Robot Teams: A Dynamical Systems Approach"
+  image: 
+  description:
+  authors: Tariq Iqbal, Samantha Rack, Laurel D. Riek
+  link:
+    url: 
+    display:  
+    pdf_filename: 
+    bibtex_filename: hamlet.bib
+  pub_venue: IEEE Transactions on Robotics (T-RO), vol. 32, no. 4, pp. 909-919, 2016
+  pub_date: 2016
+  pub_year: 2016
+  highlight: 
+  news2:	  
+	  
+- title: "A Method for Automatic Detection of Psychomotor Entrainment"
+  image: 
+  description:
+  authors: Tariq Iqbal, Laurel D. Riek
+  link:
+    url: 
+    display:  
+    pdf_filename: 
+    bibtex_filename: hamlet.bib
+  pub_venue: IEEE Transactions on Affective Computing (T-AC), vol. 7, no. 1, pp. 3-16, 2016
+  pub_date: 2016
+  pub_year: 2016
+  highlight: 
+  news2:	  
+
+- title: "Human Coordination Dynamics with Heterogeneous Robots in a Team"
+  image: 
+  description:
+  authors: Tariq Iqbal, Laurel D. Riek
+  link:
+    url: 
+    display:  
+    pdf_filename: 
+    bibtex_filename: hamlet.bib
+  pub_venue: "Proceedings of the ACM/IEEE International Conference on Human Robot Interaction (HRI), HRI Pioneers Workshop"
+  pub_date: 2016
+  pub_year: 2016
+  highlight: 
+  news2:	  
+
+- title: "Tempo Adaptation and Anticipation Methods for Human-Robot Teams"
+  image: 
+  description:
+  authors: Tariq Iqbal, Maryam Moosaei, Laurel D. Riek
+  link:
+    url: 
+    display:  
+    pdf_filename: 
+    bibtex_filename: hamlet.bib
+  pub_venue: "Proceedings of the Robotics: Science and Systems (RSS), Planning for Human-Robot Interaction: Shared Autonomy and Collaborative Robotics Workshop"
+  pub_date: 2016
+  pub_year: 2016
+  highlight: 
+  news2:	  	  
+	  
+- title: "Leveraging Coordination Dynamics to Enable Human Robot Teams"
+  image: 
+  description:
+  authors: Tariq Iqbal, Laurel D. Riek
+  link:
+    url: 
+    display:  
+    pdf_filename: 
+    bibtex_filename: hamlet.bib
+  pub_venue: "Proceedings of the Midwest Robotics Workshop (MWRW)"
+  pub_date: 2016
+  pub_year: 2016
+  highlight: 
+  news2:	  
+
+- title: "Joint Action Perception to Enable Fluent Human-Robot Teamwork"
+  image: 
+  description:
+  authors: Tariq Iqbal, Michael J. Gonzales, Laurel D. Riek
+  link:
+    url: 
+    display:  
+    pdf_filename: 
+    bibtex_filename: 
+  pub_venue: "Proceedings of the IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN)"
+  pub_date: 2015
+  pub_year: 2015
+  highlight: 
+  news2:	  
+	  
+- title: "Detecting and Synthesizing Synchronous Joint Action in Human-Robot Team"
+  image: 
+  description:
+  authors: Tariq Iqbal, Laurel D. Riek
+  link:
+    url: 
+    display:  
+    pdf_filename: 
+    bibtex_filename: 
+  pub_venue: "Proceedings of the ACM International Conference on Multimodal Interaction (ICMI)"
+  pub_date: 2015
+  pub_year: 2015
+  highlight: 
+  news2:
+
+- title: "Enabling Synchronous Joint Action in Human-Robot Teams"
+  image: 
+  description:
+  authors: Samantha Rack, Tariq Iqbal, Laurel D. Riek
+  link:
+    url: 
+    display:  
+    pdf_filename: 
+    bibtex_filename: 
+  pub_venue: "Proceedings of the ACM/IEEE International Conference on Human-Robot Interaction (HRI), Late breaking report"
+  pub_date: 2015
+  pub_year: 2015
+  highlight: 
+  news2:	  
+	  
+- title: "Will You Join The Dance? Toward Synchronous Joint Action in Human Robot Teams"
+  image: 
+  description:
+  authors: Tariq Iqbal, Laurel D. Riek
+  link:
+    url: 
+    display:  
+    pdf_filename: 
+    bibtex_filename: 
+  pub_venue: "Proceedings of the AAnnual Joint Action Meeting (JAM)"
+  pub_date: 2015
+  pub_year: 2015
+  highlight: 
+  news2:	
+  
+- title: "Mobile Robots and Marching Humans: Measuring Synchronous Joint Action While in Motion"
+  image: 
+  description:
+  authors: Tariq Iqbal, Michael J. Gonzales, Laurel D. Riek
+  link:
+    url: 
+    display:  
+    pdf_filename: 
+    bibtex_filename: 
+  pub_venue: "Proceedings of the AAAI Fall Symposium on Artificial Intelligence in Human-Robot Interaction (AI-HRI)"
+  pub_date: 2014
+  pub_year: 2014
+  highlight: 
+  news2:	
+
+- title: "Role Distribution in Synchronous Human-Robot Joint Action"
+  image: 
+  description:
+  authors: Tariq Iqbal, Laurel D. Riek
+  link:
+    url: 
+    display:  
+    pdf_filename: 
+    bibtex_filename: 
+  pub_venue: "Proceedings of the IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN), Towards a Framework for Joint Action Workshop"
+  pub_date: 2014
+  pub_year: 2014
+  highlight: 
+  news2:	
+
+- title: "A Model for Time-Synchronized Sensing and Motion to Support Human-Robot Fluency"
+  image: 
+  description:
+  authors: Tariq Iqbal, Michael J. Gonzales, Laurel D. Riek
+  link:
+    url: 
+    display:  
+    pdf_filename: 
+    bibtex_filename: 
+  pub_venue: "Proceedings of the ACM/IEEE International Conference on Human-Robot Interaction (HRI), Workshop on Timing in HRI"
+  pub_date: 2014
+  pub_year: 2014
+  highlight: 
+  news2:	
+  
+- title: "Assessing Group Synchrony During a Rhythmic Social Activity: A Systemic Approach"
+  image: 
+  description:
+  authors: Tariq Iqbal, Laurel D. Riek
+  link:
+    url: 
+    display:  
+    pdf_filename: 
+    bibtex_filename: 
+  pub_venue: "Proceedings of the Conference of the International Society for Gesture Studies (ISGS)"
+  pub_date: 2014
+  pub_year: 2014
+  highlight: 
+  news2:	
 
