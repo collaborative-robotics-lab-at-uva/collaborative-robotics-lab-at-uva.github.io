@@ -52,7 +52,7 @@
     display:  
     pdf_filename: 
     bibtex_filename: hamlet.bib
-  pub_venue: Proceedings of the Robotics: Science and Systems (RSS), Towards a framework for Joint Action: What about Theory of Mind Workshop
+  pub_venue: "Proceedings of the Robotics: Science and Systems (RSS), Towards a framework for Joint Action: What about Theory of Mind Workshop"
   pub_date: 2018
   pub_year: 2018
   highlight: 
