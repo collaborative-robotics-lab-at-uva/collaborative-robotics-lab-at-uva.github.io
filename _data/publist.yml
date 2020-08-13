@@ -13,17 +13,17 @@
   highlight: 1
   news2:
 
-- title: "HAMLET: A Hierarchical Multimodal Attention-based Human Activity Recognition Algorithm"
+- title: "Fast Online Segmentation of Activities from Partial Trajectories"
   image: 
   description:
-  authors: Md Mofijul Islam, Tariq Iqbal
+  authors: Tariq Iqbal, Shen Li, Christopher Fourie, Bradley Hayes, Julie A. Shah
   link:
     url: https://arxiv.org/abs/2008.01148
     display:  ArXiv
     pdf_filename: 
     bibtex_filename: hamlet.bib
-  pub_venue: Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
-  pub_date: October, 2020
+  pub_venue: Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)
+  pub_date: October, 2019
   pub_year: 2019
   highlight: 2
   news2:
