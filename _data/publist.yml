@@ -87,8 +87,7 @@
   pub_year: 2017
   highlight: 
   news2:
-	  
-	  
+
 - title: "Movement Coordination in Human Robot Teams: A Dynamical Systems Approach"
   image: 
   description:
@@ -102,8 +101,8 @@
   pub_date: 2016
   pub_year: 2016
   highlight: 
-  news2:	  
-	  
+  news2:
+
 - title: "A Method for Automatic Detection of Psychomotor Entrainment"
   image: 
   description:
@@ -117,7 +116,7 @@
   pub_date: 2016
   pub_year: 2016
   highlight: 
-  news2:	  
+  news2:
 
 - title: "Human Coordination Dynamics with Heterogeneous Robots in a Team"
   image: 
