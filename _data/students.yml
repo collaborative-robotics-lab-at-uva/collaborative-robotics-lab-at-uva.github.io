@@ -13,6 +13,7 @@
   info: Ph.D. Student
   started: August 2017
   email: msy9an@virginia.edu
+  personal_homepage: https://samin.netlify.app/
   number_educ: 0
   education1:
   education2:
@@ -23,6 +24,7 @@
   info: PhD Student
   started: August 2019
   email: mi8uu@virginia.edu
+  personal_homepage: https://mmiakashs.github.io
   number_educ: 0
   education1:
   education2:
@@ -31,7 +33,8 @@
 
 - name: Haley Green
   photo: haley_cropped.jpg
-  info: Ph.D. Student, started August 2020
+  info: Ph.D. Student
+  started: August 2020
   email: hng9vf@virginia.edu
   number_educ: 0
   education1:

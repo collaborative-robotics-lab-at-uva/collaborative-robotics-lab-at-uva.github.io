@@ -29,7 +29,10 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="150" style="border-radius:15%" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>Email: <{{ member.email }}></i>
+  <i>{{ member.info }}<br>Email: <{{ member.email }}></i><br>
+  {%- if member.personal_homepage -%}
+  <a href="{{ member.personal_homepage }}" target="_blank"> Personal Homepage</a>
+  {% endif %}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -61,7 +64,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   {% endif %}
-
   </ul>
 </div>
 
@@ -92,7 +94,10 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="150" style="border-radius:15%" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>Email: <{{ member.email }}><br>Started: {{ member.started }}</i>
+  <i>{{ member.info }}<br>Email: <{{ member.email }}><br>Started: {{ member.started }}</i><br>
+  {%- if member.personal_homepage -%}
+  <a href="{{ member.personal_homepage }}" target="_blank"> Personal Homepage</a>
+  {% endif %}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
