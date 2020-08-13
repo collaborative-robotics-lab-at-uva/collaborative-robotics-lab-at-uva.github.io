@@ -18,7 +18,7 @@
   description:
   authors: Tariq Iqbal, Shen Li, Christopher Fourie, Bradley Hayes, Julie A. Shah
   link:
-    url: https://arxiv.org/abs/2008.01148
+    url: 
     display:  
     pdf_filename: 
     bibtex_filename: hamlet.bib
@@ -32,7 +32,8 @@
   image: 
   description:
   authors: Alyssa Kubota, Tariq Iqbal, Julie A. Shah, Laurel D. Riek
-    url: https://arxiv.org/abs/2008.01148
+  link:
+    url: 
     display:  
     pdf_filename: 
     bibtex_filename: hamlet.bib
@@ -46,7 +47,8 @@
   image: 
   description:
   authors: Tariq Iqbal, Laurel D. Riek, Julie A. Shah
-    url: https://arxiv.org/abs/2008.01148
+  link:
+    url: 
     display:  
     pdf_filename: 
     bibtex_filename: hamlet.bib
@@ -60,7 +62,8 @@
   image: 
   description:
   authors: Tariq Iqbal, Laurel D. Riek
-    url: https://arxiv.org/abs/2008.01148
+  link:
+    url: 
     display:  
     pdf_filename: 
     bibtex_filename: hamlet.bib
