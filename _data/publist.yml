@@ -73,6 +73,21 @@
   highlight: 
   news2:
 
+- title: "Human Robot Teaming: Approaches from Joint Action and Dynamical Systems"
+  image: 
+  description:
+  authors: Tariq Iqbal, Laurel D. Riek
+  link:
+    url: 
+    display:  
+    pdf_filename: 
+    bibtex_filename: hamlet.bib
+  pub_venue: "Invited chapter in Springer Humanoid Robotics: A Reference"
+  pub_date: 2017
+  pub_year: 2017
+  highlight: 
+  news2:
+
 - title: "Can Robots Synchronize with Humans in Tempo Changing Environments?"
   image: 
   description:
