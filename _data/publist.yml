@@ -10,7 +10,7 @@
   pub_venue: Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
   pub_date: October, 2020
   pub_year: 2020
-  highlight: 1
+  highlight: 
   news2:
 
 - title: "Fast Online Segmentation of Activities from Partial Trajectories"
@@ -18,44 +18,55 @@
   description:
   authors: Tariq Iqbal, Shen Li, Christopher Fourie, Bradley Hayes, Julie A. Shah
   link:
-    url: https://arxiv.org/abs/2008.01148
-    display:  ArXiv
+    url: 
+    display:  
     pdf_filename: 
-    bibtex_filename: hamlet.bib
+    bibtex_filename: 
   pub_venue: Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)
   pub_date: 2019
   pub_year: 2019
-  highlight: 2
+  highlight: 
   news2:
 
-
-- title: "HAMLET: A Hierarchical Multimodal Attention-based Human Activity Recognition Algorithm"
+- title: "Activity Recognition in Manufacturing: The Roles of Motion Capture and sEMG+Inertial Wearables in Detecting Fine vs. Gross Motion"
   image: 
   description:
-  authors: Md Mofijul Islam, Tariq Iqbal
-  link:
-    url: https://arxiv.org/abs/2008.01148
-    display:  ArXiv
+  authors: Alyssa Kubota, Tariq Iqbal, Julie A. Shah, Laurel D. Riek
+    url: 
+    display:  
     pdf_filename: 
-    bibtex_filename: hamlet.bib
-  pub_venue: Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
-  pub_date: October, 2020
+    bibtex_filename: 
+  pub_venue: Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)
+  pub_date: 2019
   pub_year: 2019
-  highlight: 2
+  highlight: 
   news2:
 
-
-- title: "HAMLET: A Hierarchical Multimodal Attention-based Human Activity Recognition Algorithm"
+- title: "Toward a Real-time Activity Segmentation Method for Human-Robot Teaming"
   image: 
   description:
-  authors: Md Mofijul Islam, Tariq Iqbal
-  link:
-    url: https://arxiv.org/abs/2008.01148
-    display:  ArXiv
+  authors: Tariq Iqbal, Laurel D. Riek, Julie A. Shah
+    url: 
+    display:  
     pdf_filename: 
-    bibtex_filename: hamlet.bib
-  pub_venue: Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
-  pub_date: October, 2020
+    bibtex_filename: 
+  pub_venue: Proceedings of the Robotics: Science and Systems (RSS), Towards a framework for Joint Action: What about Theory of Mind Workshop
+  pub_date: 2018
   pub_year: 2018
-  highlight: 2
+  highlight: 
   news2:
+
+- title: "Coordination Dynamics in Multi-human Multi-robot Teams"
+  image: 
+  description:
+  authors: Tariq Iqbal, Laurel D. Riek
+    url: 
+    display:  
+    pdf_filename: 
+    bibtex_filename: 
+  pub_venue: IEEE Robotics and Automation Letters (RA-L), vol. 2, no. 3, pp. 1712-1717
+  pub_date: 2017
+  pub_year: 2017
+  highlight: 
+  news2:
+
