@@ -33,8 +33,11 @@ permalink: /publications/
   {%- if publi.link.pdf_filename -%}
   <a href="{{ site.url }}{{ site.baseurl }}/files/papers/{{ publi.link.pdf_filename }}" class="btn btn-warning btn-xs btn-rounded" role="button" target="_blank">PDF</a>
   {% endif -%}
+  
+  {%- if publi.link.url -%}
   <a href="{{ publi.link.url }}" class="btn btn-warning btn-xs btn-rounded" role="button" target="_blank">{{publi.link.display}}</a>
-
+  {% endif -%}
+  
   </div></div>
   </div>
 {%- endfor -%}
