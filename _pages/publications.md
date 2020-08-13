@@ -27,14 +27,14 @@ permalink: /publications/
 
   <div class="row">
   {%- if publi.link.bibtex_filename -%}
-  <a href="{{ site.url }}{{ site.baseurl }}/files/bibtex/{{ publi.link.bibtex_filename }}" class="btn btn-primary" role="button" target="_blank">BibTex</a>
+  <a href="{{ site.url }}{{ site.baseurl }}/files/bibtex/{{ publi.link.bibtex_filename }}" class="btn btn-warning btn-rounded btn-xs" role="button" target="_blank">BibTex</a>
   {% endif %}
-  
+
   {%- if publi.link.pdf_filename -%}
-  <a href="{{ site.url }}{{ site.baseurl }}/files/papers/{{ publi.link.pdf_filename }}" class="btn btn-primary" role="button" target="_blank">PDF</a>
+  <a href="{{ site.url }}{{ site.baseurl }}/files/papers/{{ publi.link.pdf_filename }}" class="btn btn-warning btn-xs btn-rounded" role="button" target="_blank">PDF</a>
   {% endif -%}
-  <a href="{{ publi.link.url }}" class="btn btn-primary" role="button" target="_blank">{{publi.link.display}}</a>
-  
+  <a href="{{ publi.link.url }}" class="btn btn-warning btn-xs btn-rounded" role="button" target="_blank">{{publi.link.display}}</a>
+
   </div></div>
   </div>
 {%- endfor -%}
