@@ -20,7 +20,7 @@ permalink: /publications/
   {%- endif -%}
 
   <div class="col-sm-12">
-  <b>{{ publi.title }} hello</b> <br />
+  <b>{{ publi.title }}</b> <br />
   {{ publi.authors }} <br/>
   <em>{{publi.pub_venue}}, {{publi.pub_date}}</em> <br/>
   <div class="container">
