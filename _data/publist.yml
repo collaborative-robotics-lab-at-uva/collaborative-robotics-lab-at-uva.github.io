@@ -1,3 +1,20 @@
+
+
+- title: "A Scalable Approach to Predict Multi-Agent Motion for Human-Robot Collaboration"
+  image: 
+  description:
+  authors: Mohammad Samin Yasar, Tariq Iqbal
+  link:
+    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9353218
+    display:  ArXiv
+    pdf_filename: scalable.pdf
+    bibtex_filename: scalable.bib
+  pub_venue: IEEE ROBOTICS AND AUTOMATION LETTERS
+  pub_date: APRIL 2021
+  pub_year: 2021
+  highlight: 
+  news2
+
 - title: "HAMLET: A Hierarchical Multimodal Attention-based Human Activity Recognition Algorithm"
   image: 
   description:
