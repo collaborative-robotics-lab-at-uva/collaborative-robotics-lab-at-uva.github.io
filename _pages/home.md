@@ -23,10 +23,10 @@ Group home description
             <img src="{{ site.url }}{{ site.baseurl }}/images/respic/hamlet.jpeg" alt="HAMLET: A Hierarchical Multimodal Attention-based Human Activity Recognition Algorithm" />
         </div>
         <div class="item" >
-            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/nao.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/nao.jpg" height="400" alt="Slide 2" />
         </div>
         <div class="item" >
-            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/fetch.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/fetch.jpg" height="400" alt="Slide 3" />
         </div>
         <div class="item" >
             <img src="{{ site.url }}{{ site.baseurl }}/images/respic/hamlet.jpeg" alt="Slide 4" />
