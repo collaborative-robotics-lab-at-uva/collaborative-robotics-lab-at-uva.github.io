@@ -31,7 +31,7 @@
   education3:
 
 
-- name: <a "https://haleygreen.netlify.app/" target="_blank"> Haley Green</a>
+- name: <a href="https://haleygreen.netlify.app/" target="_blank"> Haley Green</a>
   photo: haley_cropped.jpg
   info: Ph.D. Student
   started: August 2020
